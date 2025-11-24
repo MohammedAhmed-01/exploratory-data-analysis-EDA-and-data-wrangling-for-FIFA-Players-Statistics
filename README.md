@@ -86,10 +86,13 @@ Scikit-learn (optional preprocessing tools)
 
 │   └── fifa_players.csv
 │
+
+
 ├── notebooks/
 
 │   └── FIFA_EDA_and_Data_Wrangling.ipynb
 │
+
 ├── src/
 
 │   ├── wrangling.py
@@ -100,6 +103,7 @@ Scikit-learn (optional preprocessing tools)
 
 │   └── cleaning.py
 │
+
 ├── outputs/
 
 │   ├── cleaned_dataset.csv
