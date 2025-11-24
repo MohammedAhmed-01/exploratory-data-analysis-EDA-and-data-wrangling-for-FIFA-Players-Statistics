@@ -81,31 +81,25 @@ Scikit-learn (optional preprocessing tools)
 
 📂 Repository Structure
 
-
 .
 ├── data/
 │   └── fifa_players.csv
 │
-
-
 ├── notebooks/
 │   └── FIFA_EDA_and_Data_Wrangling.ipynb
 │
-
-
 ├── src/
 │   ├── wrangling.py
 │   ├── visualization.py
 │   ├── utils.py
 │   └── cleaning.py
 │
-
-
 ├── outputs/
 │   ├── cleaned_dataset.csv
 │   ├── charts/
 │   └── insights_report.md
 │
+└── README.md
 
 🎯 Learning Outcomes
 
