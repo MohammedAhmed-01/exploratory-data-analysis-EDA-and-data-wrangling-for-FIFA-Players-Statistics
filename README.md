@@ -1,0 +1,2 @@
+# exploratory-data-analysis-EDA-and-data-wrangling-for-FIFA-Players-Statistics
+A comprehensive data analysis project focused on cleaning, transforming, and exploring FIFA player statistics using Python. This repository includes full data-wrangling steps, exploratory visualizations, feature insights, and structured workflows for understanding player attributes, performance metrics, and overall dataset patterns.
